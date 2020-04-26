@@ -12,18 +12,18 @@
 
  #### 대외활동
 
-	* [공모전] [한이음](https://www.hanium.or.kr/portal/index.do "한이음홈페이지")			
-		+ 한이음이란 프로젝트 한이음은 기업전문가 ICT멘토와 대학에서 팀(지도교수, 학생)을 이루어 실무기술이 반영된 프로젝트를 수행하는 실무형 ICT인재 양성 프로그램.   
-			+ 주제 : AWS 클라우드 서비스를 이용하여 제품 개발
-			+ 기간 : 2018.03 ~ 2018.12
-			+ 사용기술 : AWS Ec2,S3,Polly,sdk,DynamoDB,swift,Alamofire
-			+ 시연영상 : [시연영상주소](https://www.youtube.com/watch?v=cranY6sji4g&feature=youtu.be "한이음 제품시연영상")
-	* [외주] Linxtelecom
-		+ Pufscanner ios 앱 개발 참여
-			+ 주제 : 기존 custom QR 코드 앱 유지보수 및 UI 개선
-			+ 기간 : 2018.07 ~ 2018.10
-			+ 사용기술 : Objective - c
-			+ 앱스토어 : [스토어링크](https://itunes.apple.com/kr/app/pufscanner/id1084263211?mt=8)
+>	* [공모전] [한이음](https://www.hanium.or.kr/portal/index.do "한이음홈페이지")			
+>		+ 한이음이란 프로젝트 한이음은 기업전문가 ICT멘토와 대학에서 팀(지도교수, 학생)을 이루어 실무기술이 반영된 프로젝트를 수행하는 실무형 ICT인재 양성 프로그램.   
+>			+ 주제 : AWS 클라우드 서비스를 이용하여 제품 개발
+>			+ 기간 : 2018.03 ~ 2018.12
+>			+ 사용기술 : AWS Ec2,S3,Polly,sdk,DynamoDB,swift,Alamofire
+>			+ 시연영상 : [시연영상주소](https://www.youtube.com/watch?v=cranY6sji4g&feature=youtu.be "한이음 제품시연영상")
+>	* [외주] Linxtelecom
+>		+ Pufscanner ios 앱 개발 참여
+>			+ 주제 : 기존 custom QR 코드 앱 유지보수 및 UI 개선
+>			+ 기간 : 2018.07 ~ 2018.10
+>			+ 사용기술 : Objective - c
+>			+ 앱스토어 : [스토어링크](https://itunes.apple.com/kr/app/pufscanner/id1084263211?mt=8)
 
 	* [교내공모전]협업하는 프론티어
 		+ 협업하는프론티어는 회사와 협업하여 지역사회내 편의를 개선하거나 발전에 도움이되는 발명품을 만드는것.   
