@@ -45,6 +45,8 @@
 >	+ 사용기술 : Swift, SwiftyJSON, Alamofire,KeychainSwift,SnapKit,FSCalendar
 >		+ ios 개발 및 유지보수
 >		+ REST ful 방식을 이용하여 서버 api 통신 개발
+>
+![네오인트라넷-3](https://github.com/seging/Portfolio/blob/master/image/%EB%84%A4%EC%98%A4%EC%9D%B8%ED%8A%B8%EB%9D%BC%EB%84%B7-3.jpg)![네오인트라넷-2](https://github.com/seging/Portfolio/blob/master/image/%EB%84%A4%EC%98%A4%EC%9D%B8%ED%8A%B8%EB%9D%BC%EB%84%B7-2.jpg)![네오인트라넷-1](https://github.com/seging/Portfolio/blob/master/image/%EB%84%A4%EC%98%A4%EC%9D%B8%ED%8A%B8%EB%9D%BC%EB%84%B7-1.jpg)
 
 
 ## 지아이티
@@ -56,13 +58,13 @@
 >	+ 글로벌 서비스 앱(KSA)
 >		+ 사용기술 : objective-c,swift,Marsonry,firebase,Googlemap,fmdb
 >		+ 역활 : ios 앱 언어팩 적용 및 화면변경, 유지보수
->		+ 기간 : 2019.11 ~ 2020.01
+>		+ 기간 : 2019.11 ~ 2020.02
 >	+ 러시아 서비스 앱(KMR)
 >		+ 사용기술 : objective-c,swift,Marsonry,firebase,Googlemap,fmdb
 >		+ 역활 : ios 앱 언어팩 적용 및 화면변경, 유지보수
 >		+ 기간 : 2019.10 ~ 2019.11
 >	+ 인도 서비스 앱(KMI)
 >		+ 사용기술 : objective-c,swift,Marsonry,firebase,Googlemap,fmdb
->		+ 역활 : ios 앱 언어팩 적용 및 화면변경, 유지보수
->		+ 기간 : 2019.08 ~ 2019.10
+>		+ 역활 : ios 앱 화면변경 및 유지보수
+>		+ 기간 : 2019.08 ~ 2019.10,2020.03 ~ 2020.04
 
