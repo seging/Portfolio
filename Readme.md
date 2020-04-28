@@ -46,7 +46,7 @@
 >		+ ios 개발 및 유지보수
 >		+ REST ful 방식을 이용하여 서버 api 통신 개발
 >
-![네오인트라넷-3](https://github.com/seging/Portfolio/blob/master/image/%EB%84%A4%EC%98%A4%EC%9D%B8%ED%8A%B8%EB%9D%BC%EB%84%B7-3.jpg)![네오인트라넷-2](https://github.com/seging/Portfolio/blob/master/image/%EB%84%A4%EC%98%A4%EC%9D%B8%ED%8A%B8%EB%9D%BC%EB%84%B7-2.jpg)![네오인트라넷-1](https://github.com/seging/Portfolio/blob/master/image/%EB%84%A4%EC%98%A4%EC%9D%B8%ED%8A%B8%EB%9D%BC%EB%84%B7-1.jpg)
+![네오인트라넷-3](https://github.com/seging/Portfolio/blob/master/image/%EB%84%A4%EC%98%A4%EC%9D%B8%ED%8A%B8%EB%9D%BC%EB%84%B7-3.jpg)![네오인트라넷-2](https://github.com/seging/Portfolio/blob/master/image/%EB%84%A4%EC%98%A4%EC%9D%B8%ED%8A%B8%EB%9D%BC%EB%84%B7-2.jpg)![네오인트라넷-1](https://github.com/seging/Portfolio/blob/master/image/%EB%84%A4%EC%98%A4%EC%9D%B8%ED%8A%B8%EB%9D%BC%EB%84%B7-1.jpg)![네오인트라넷-4](https://github.com/seging/Portfolio/blob/master/image/%EB%84%A4%EC%98%A4%EC%9D%B8%ED%8A%B8%EB%9D%BC%EB%84%B7-4.jpg)
 
 
 ## 지아이티
