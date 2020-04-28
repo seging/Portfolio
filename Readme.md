@@ -24,6 +24,7 @@
 >			+ 기간 : 2018.07 ~ 2018.10
 >			+ 사용기술 : Objective - c
 >			+ 앱스토어 : [스토어링크](https://itunes.apple.com/kr/app/pufscanner/id1084263211?mt=8)
+![퍼프스케너-1](https://github.com/seging/Portfolio/blob/master/image/%ED%8D%BC%ED%94%84%EC%8A%A4%EC%BC%80%EB%84%88-1.jpg)![퍼프스케너-2](https://github.com/seging/Portfolio/blob/master/image/%ED%8D%BC%ED%94%84%EC%8A%A4%EC%BC%80%EB%84%88-2.jpg)
 
 >	* [교내공모전]협업하는 프론티어
 >		+ 협업하는프론티어는 회사와 협업하여 지역사회내 편의를 개선하거나 발전에 도움이되는 발명품을 만드는것.   
