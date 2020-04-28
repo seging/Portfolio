@@ -45,6 +45,7 @@
 >	+ 사용기술 : Swift, SwiftyJSON, Alamofire,KeychainSwift,SnapKit,FSCalendar
 >		+ ios 개발 및 유지보수
 >		+ REST ful 방식을 이용하여 서버 api 통신 개발
+>			![네오인트라넷-1][]
 
 
 ## 지아이티
