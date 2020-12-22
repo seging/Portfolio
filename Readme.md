@@ -7,7 +7,8 @@
 
 
   #### 경력
->       * 네오플러스 : 2019.07 ~ 	 
+>       * 네오플러스 : 2019.07 ~ 2020.05
+> * B2 : 2020.09 ~ 2020.11
 
 
  #### 대외활동
@@ -89,5 +90,5 @@
 >		+ 사용 기술 : swift, core bluetooth
 >		+ 역활 : iOS 앱과 아두이노 연동 개발
 >		+ 기간 : 2020.12 ~ 2020,12
->
+>	 	+시연 영상 : [Smart Window] (https://github.com/seging/Portfolio/tree/master/%EB%B9%84%EB%94%94%EC%98%A4/smartwindowapp.mp4)
 
