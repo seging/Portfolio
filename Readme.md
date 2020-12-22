@@ -90,5 +90,5 @@
 >		+ 사용 기술 : swift, core bluetooth
 >		+ 역활 : iOS 앱과 아두이노 연동 개발
 >		+ 기간 : 2020.12 ~ 2020,12
->	 	+시연 영상 : https://github.com/seging/Portfolio/tree/master/video/smartwindowapp.mp4
+>	 	+ 시연 영상 : https://github.com/seging/Portfolio/tree/master/video/smartwindowapp.mp4
 
