@@ -59,19 +59,19 @@
 >
 >	+ 멕시코 서비스 앱(KMM)
 >		+ 사용기술 : objective-c,swift,Marsonry,firebase,Googlemap,fmdb
->		+ 역활 : ios 앱 언어팩 적용 및 화면변경, 유지보수
+>		+ 역할 : ios 앱 언어팩 적용 및 화면변경, 유지보수
 >		+ 기간 : 2020.02 ~ 2020.04
 >	+ 글로벌 서비스 앱(KSA)
 >		+ 사용기술 : objective-c,swift,Marsonry,firebase,Googlemap,fmdb
->		+ 역활 : ios 앱 언어팩 적용 및 화면변경, 유지보수
+>		+ 역할 : ios 앱 언어팩 적용 및 화면변경, 유지보수
 >		+ 기간 : 2019.11 ~ 2020.02
 >	+ 러시아 서비스 앱(KMR)
 >		+ 사용기술 : objective-c,swift,Marsonry,firebase,Googlemap,fmdb
->		+ 역활 : ios 앱 언어팩 적용 및 화면변경, 유지보수
+>		+ 역할 : ios 앱 언어팩 적용 및 화면변경, 유지보수
 >		+ 기간 : 2019.10 ~ 2019.11
 >	+ 인도 서비스 앱(KMI)
 >		+ 사용기술 : objective-c,swift,Marsonry,firebase,Googlemap,fmdb
->		+ 역활 : ios 앱 화면변경 및 유지보수
+>		+ 역할 : ios 앱 화면변경 및 유지보수
 >		+ 기간 : 2019.08 ~ 2019.10,2020.03 ~ 2020.04
 
 
@@ -79,7 +79,7 @@
 >
 >	+ 강아샘통 앱
 >		+ 사용기술 : objective-c,swift
->		+ 역활 : 소스 리팩토링
+>		+ 역할 : 소스 리팩토링
 >		+ 기간 : 2020.09 ~ 2020.11
 >		+ 앱스토어 : [스토어링크](https://apps.apple.com/kr/app/%EA%B0%95%EC%95%84%EC%83%98%ED%86%B5/id1295938279)
 
@@ -88,13 +88,13 @@
 >
 >	+ GOS 앱
 >		+ 사용기술 : objective-c,swift
->		+ 역활 : 소스 리팩토링, 소스 유지보수, 소스 이슈대응, 기능 추가 및 개선
+>		+ 역할 : 소스 리팩토링, 소스 유지보수, 소스 이슈대응, 기능 추가 및 개선
 >		+ 기간 : 2021.01 ~ 
 >		+ 앱스토어 : [스토어링크](https://apps.apple.com/kr/app/gos/id1509217154)
 >
 >	+ Qrick 앱
 >		+ 사용기술 : objective-c,swift
->		+ 역활 : 소스 리팩토링, 소스 유지보수, 소스 이슈대응, 기능 추가 및 개선
+>		+ 역할 : 소스 리팩토링, 소스 유지보수, 소스 이슈대응, 기능 추가 및 개선
 >		+ 기간 : 2021.06 ~
 >		+ 앱스토어 : [스토어링크](https://apps.apple.com/us/app/qrick/id1331822769)
 
@@ -103,11 +103,11 @@
 >
 >	+ 스마트윈도우
 >		+ 사용 기술 : swift, core bluetooth
->		+ 역활 : iOS 앱과 아두이노 연동 개발
+>		+ 역할 : iOS 앱과 아두이노 연동 개발
 >		+ 기간 : 2020.12 ~ 2020,12
 >	 	+ 시연 영상 : https://github.com/seging/Portfolio/tree/master/%EB%B9%84%EB%94%94%EC%98%A4/smartwindowapp.mp4
 >
 >	+ Pie-Timer (진행 중)
 >		+ 사용 기술 : rxSwift,SwiftUI,MVVM
->		+ 역활 : iOS 앱 개발 및 아키텍처 설계
+>		+ 역 : iOS 앱 개발 및 아키텍처 설계
 >		+ 기간 : 2022.01 ~
