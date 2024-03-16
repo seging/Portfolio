@@ -48,18 +48,6 @@
 
 ***
 
-## we
->
-> + 커플 D-day,일정관리 앱
-> + 사용기술 : RxSwift,mvvm
->  
-
-## Nurse Timer
->
-> + 항생제 시간을 복수의 타이머를 등록하는 애플워치 앱
-> + 사용기술 : SwiftUI,Mvvm
->
-
 ## 사내인트라넷
 >
 >	+ 휴가정보 및 사내 연락처 조회가능
@@ -129,14 +117,22 @@
 
 사이드프로젝트
 -------    
+## 스마트윈도우
 >
->	+ 스마트윈도우
+>	+ 아두이노와 iOS앱을 활용한 자동창문
 >		+ 사용 기술 : swift, core bluetooth
 >		+ 역할 : iOS 앱과 아두이노 연동 개발
 >		+ 기간 : 2020.12 ~ 2020,12
 >	 	+ 시연 영상 : https://github.com/seging/Portfolio/tree/master/%EB%B9%84%EB%94%94%EC%98%A4/smartwindowapp.mp4
 >
->	+ Pie-Timer (진행 중)
->		+ 사용 기술 : rxSwift,SwiftUI,MVVM
->		+ 역 : iOS 앱 개발 및 아키텍처 설계
->		+ 기간 : 2022.01 ~
+## We
+>
+>       + 커플 D-day,일정관리 앱
+>               + 사용기술 : RxSwift,mvvm
+>  
+
+## Nurse Timer
+>
+> 	+ 항생제 시간을 복수의 타이머를 등록하는 애플워치 앱
+> 		+ 사용기술 : SwiftUI,Mvvm
+>
