@@ -136,3 +136,4 @@
 > 	+ 시간을 복수의 타이머를 등록하는 애플워치 앱
 > 		+ 사용기술 : SwiftUI,Mvvm
 >
+![NurseTimerWatch-1](https://github.com/seging/Portfolio/blob/master/image/NurseTimer-%EC%95%A0%ED%94%8C%EC%9B%8C%EC%B9%981.jpg)![NurseTimerWatch-2](https://github.com/seging/Portfolio/blob/master/image/NurseTimer-%EC%95%A0%ED%94%8C%EC%9B%8C%EC%B9%982.jpg)![NurseTimerWatch-3](https://github.com/seging/Portfolio/blob/master/image/NurseTimer-%EC%95%A0%ED%94%8C%EC%9B%8C%EC%B9%983.jpg)![NurseTimer-1](https://github.com/seging/Portfolio/blob/master/image/NurseTimer-%EC%95%84%EC%9D%B4%ED%8F%B01.jpg)![NurseTimer-2](https://github.com/seging/Portfolio/blob/master/image/NurseTimer-%EC%95%84%EC%9D%B4%ED%8F%B02.jpg)![NurseTimer-3](https://github.com/seging/Portfolio/blob/master/image/NurseTimer-%EC%95%84%EC%9D%B4%ED%8F%B03.jpg)
